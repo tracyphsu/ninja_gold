@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    width: 900px;
+}
+
+.header{
+    margin: 10px 20px;
+}
+
+.header h4{
+    width: 80px;
+    display: inline-block;
+}
+
+.header p{
+    border: 3px solid black;
+    width: 130px;
+    display: inline-block;
+    padding: 2px 5px;
+}
+
+.farm, .cave, .house, .casino{
+    display: inline-block;
+    width: 150px;
+    border: 3px solid black;
+    padding: 20px;
+    margin: 5px;
+}
+
+h3{
+    margin: 5px 5px 5px 50px;
+}
+
+.content p{
+    margin: 5px 5px 5px 20px;
+}
+
+input{
+    width: 100px;
+    border: 3px solid black;
+    margin: 15px 5px 5px 28px;
+    box-shadow: 3px 3px black;
+    background-color: white;
+    padding: 1px;
+}
+
+
+.activities{
+    border: 3px solid black;
+    height: 149px;
+    width: 820px;
+    padding: 1px;
+    margin: 5px;
+    overflow-y: scroll;
+}
+
+.activities p{
+    padding: 2px;
+}
+
+.earn{
+    color: green;
+}
+
+.lose{
+    color: red;
+}
